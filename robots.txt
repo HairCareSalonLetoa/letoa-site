@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hair-care-salon-letoa.hair/sitemap.xml
