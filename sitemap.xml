@@ -18,6 +18,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hair-care-salon-letoa.hair/recruit/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://hair-care-salon-letoa.hair/blog/bleach-bibiri-straight/</loc>
     <lastmod>2026-06-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -25,6 +31,36 @@
     <image:image>
       <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/88/34/B243248834/B243248834.jpg</image:loc>
       <image:title>ブリーチ毛・ビビリ毛の髪質改善ストレートは「どこまで治るか」を正直にお話しします</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/kaizen-straight-chigai/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/49/89/B249896443/B249896443.jpg</image:loc>
+      <image:title>髪質改善ストレートと縮毛矯正って、何が違うの?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/keratin-treatment/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/43/22/B237884322/B237884322.jpg</image:loc>
+      <image:title>髪質改善ケラチントリートメントって、何が違うの?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/kaizen-color/</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/56/64/B256647168/B256647168.jpg</image:loc>
+      <image:title>髪質改善カラーって何?染めながら髪を綺麗にする話</image:title>
     </image:image>
   </url>
 </urlset>
