@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hair-care-salon-letoa.hair/</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://hair-care-salon-letoa.hair/blog/</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -86,5 +86,15 @@
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/year-end-2026/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/68/34/I161626834/I161626834.jpg</image:loc>
+      <image:title>年末年始のお知らせ</image:title>
+    </image:image>
   </url>
 </urlset>
