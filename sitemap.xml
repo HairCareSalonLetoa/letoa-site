@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hair-care-salon-letoa.hair/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://hair-care-salon-letoa.hair/blog/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -105,6 +105,16 @@
     <image:image>
       <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/43/22/B237884322/B237884322.jpg</image:loc>
       <image:title>カラーの赤みは、なぜ戻って見えるのか。色持ちと退色の仕組みの話</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/book-booth/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/68/34/I161626834/I161626834.jpg</image:loc>
+      <image:title>店に本のブースがある理由</image:title>
     </image:image>
   </url>
 </urlset>
