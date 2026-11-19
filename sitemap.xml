@@ -117,4 +117,54 @@
       <image:title>店に本のブースがある理由</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/1st-anniversary/</loc>
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/68/34/I161626834/I161626834.jpg</image:loc>
+      <image:title>Letoa、1周年になりました</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/head-spa/</loc>
+    <lastmod>2026-07-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/69/12/I161626912/I161626912.jpg</image:loc>
+      <image:title>ヘッドスパって何がいいの?髪じゃなく「土台」を整える話</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/lookism/</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/26/49/I160032649/I160032649.jpg</image:loc>
+      <image:title>美容師が考える、ルッキズムのこと。</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/why-home-care-matters/</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_SRC/97/13/B236909713/B236909713.jpg</image:loc>
+      <image:title>サロン帰りのサラサラは、なぜ3日で消えるのか</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/why-i-grow-my-hair/</loc>
+    <lastmod>2026-04-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/20/33/I152972033/I152972033.jpg</image:loc>
+      <image:title>なんで僕は、34歳のおじさんで髪を伸ばすのか?</image:title>
+    </image:image>
+  </url>
 </urlset>
