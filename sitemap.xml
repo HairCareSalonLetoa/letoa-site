@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hair-care-salon-letoa.hair/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://hair-care-salon-letoa.hair/blog/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -115,6 +115,16 @@
     <image:image>
       <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/68/34/I161626834/I161626834.jpg</image:loc>
       <image:title>店に本のブースがある理由</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://hair-care-salon-letoa.hair/blog/winter-dry-care/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/68/34/I161626834/I161626834.jpg</image:loc>
+      <image:title>冬の髪がパサついて広がる理由と、家でできる集中ケアの話</image:title>
     </image:image>
   </url>
 </urlset>
