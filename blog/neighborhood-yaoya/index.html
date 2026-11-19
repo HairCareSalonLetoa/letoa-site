@@ -20,24 +20,10 @@
 <meta name="twitter:description" content="野菜を買いに行くというより、おばあちゃんに会いに行く。そんなお店に、自分もなりたい。" />
 <meta name="twitter:image" content="https://imgbp.hotp.jp/CSP/IMG_BLOG_ORG/52/47/I161955247/I161955247.jpg?impolicy=HPB_policy_default&w=1200&h=900" />
 
-<script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600&family=Zen+Kaku+Gothic+New:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-
-<script>
-function applyTailwindConfig(){
-  if (typeof tailwind === 'undefined') { return false; }
-  tailwind.config = { theme: { extend: {
-    colors: { ink:'#33352f', sumi:'#52564c', sage:'#8a8f7e', moss:'#6f7861', haze:'#b7bcab', rice:'#fbfaf6', cloud:'#f1efe7', line:'#e3e0d4', clay:'#9c8f7a' },
-    fontFamily: { mincho:['"Zen Old Mincho"','serif'], gothic:['"Zen Kaku Gothic New"','sans-serif'], corm:['"Cormorant Garamond"','serif'] },
-    letterSpacing: { widejp:'0.28em' },
-  }}};
-  return true;
-}
-if (!applyTailwindConfig()) { var _t=0; var _i=setInterval(function(){_t++; if(applyTailwindConfig()||_t>50){clearInterval(_i);}},50); }
-</script>
 
 <style>
   html { scroll-behavior: smooth; }
@@ -53,6 +39,7 @@ if (!applyTailwindConfig()) { var _t=0; var _i=setInterval(function(){_t++; if(a
   table.cmp td { color:#52564c; }
   @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
 </style>
+<link rel="stylesheet" href="/assets/tailwind.css" />
 </head>
 
 <body class="font-gothic font-light">

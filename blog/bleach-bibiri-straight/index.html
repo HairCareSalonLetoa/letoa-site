@@ -22,41 +22,10 @@
 <meta name="twitter:description" content="ビビリ毛は完治するのか、ブリーチ毛はどこまでできるのか。新潟・髪質改善特化サロンが誇張せずお答えします。" />
 <meta name="twitter:image" content="https://imgbp.hotp.jp/CSP/IMG_SRC/88/34/B243248834/B243248834.jpg?impolicy=HPB_policy_default&w=1200&h=900" />
 
-<script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600&family=Zen+Kaku+Gothic+New:wght@300;400;500&family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-
-<script>
-function applyTailwindConfig(){
-  if (typeof tailwind === 'undefined') { return false; }
-  tailwind.config = {
-    theme: {
-      extend: {
-        colors: {
-          ink:'#33352f', sumi:'#52564c', sage:'#8a8f7e', moss:'#6f7861',
-          haze:'#b7bcab', rice:'#fbfaf6', cloud:'#f1efe7', line:'#e3e0d4', clay:'#9c8f7a',
-        },
-        fontFamily: {
-          mincho:['"Zen Old Mincho"','serif'],
-          gothic:['"Zen Kaku Gothic New"','sans-serif'],
-          corm:['"Cormorant Garamond"','serif'],
-        },
-        letterSpacing: { widejp:'0.28em' },
-      },
-    },
-  };
-  return true;
-}
-if (!applyTailwindConfig()) {
-  var _twTries = 0;
-  var _twTimer = setInterval(function(){
-    _twTries++;
-    if (applyTailwindConfig() || _twTries > 50) { clearInterval(_twTimer); }
-  }, 50);
-}
-</script>
 
 <style>
   html { scroll-behavior: smooth; }
@@ -77,6 +46,7 @@ if (!applyTailwindConfig()) {
     html{ scroll-behavior:auto; }
   }
 </style>
+<link rel="stylesheet" href="/assets/tailwind.css" />
 </head>
 
 <body class="font-gothic font-light">
